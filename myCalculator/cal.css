@@ -1,0 +1,28 @@
+.boxes{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    /* border: 2px solid green; */
+}
+.box{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    border: 2px solid red;
+    padding:20px;
+    margin:3px;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: red;
+}
+#input{
+    border: 2px solid red;
+    width:250px;
+    height:45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius:14px;
+    font-size: 22px;
+}
